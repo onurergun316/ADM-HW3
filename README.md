@@ -1,9 +1,9 @@
 # ADM-HW3
 Contributors:
-Simone Chieppa
-Onur Ergun
-Leonardo Lavagna
-Leonardo Skerl
+      - Simone Chieppa
+      - Onur Ergun
+      - Leonardo Lavagna
+      - Leonardo Skerl
 
 <dl>
   <dt>main.ipynb</dt>
