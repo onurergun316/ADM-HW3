@@ -29,3 +29,5 @@
 
 
 </dl>
+
+ipynb viewer : https://nbviewer.org/github/onurergun316/ADM-HW3/blob/master/main.ipynb
